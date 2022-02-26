@@ -20,13 +20,7 @@ let descuento = prompt('Ingrese su código de descuento. Si no tiene, presione E
 let precio = parseInt(prompt('Indique el precio del producto que desea comprar:'));
 
 
-
-// Funciones ↓↓
-/*const doce = x => x*1.15;
-const seis = x => x*1.1;
-const docecuotas = x => x*1.15/12;
-const seiscuotas = x => x*1.1/6;*/
-
+// Función ↓↓
 const intereses = (a,b) => a*b;
 
 // Condicionales ↓↓
